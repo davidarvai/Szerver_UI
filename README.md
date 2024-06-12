@@ -8,24 +8,36 @@ Client-Server Application with Tkinter and Socket Programming
 
 Features:
 
-  Client:
-    • Graphical user interface to send messages to the server.
-    • Displays the sent messages in a text area.
-    • "Send" button to send messages.
-    • "Exit" button to disconnect from the server.
+ Client:
   
-  Server:
-    • Graphical user interface to manage the server.
-    • Displays received messages from clients.
-    • Displays sent responses to clients.
-    • "Start Server" button to start listening for client connections.
-    •  "Stop Server" button to stop the server.
-    • "Display Votes" button to show the count of positive and negative votes.
+   • Graphical user interface to send messages to the server.
+    
+   • Displays the sent messages in a text area.
+    
+   • "Send" button to send messages.
+    
+   • "Exit" button to disconnect from the server.
   
-  Requirements:
+ Server:
+ 
+   • Graphical user interface to manage the server.
+    
+   • Displays received messages from clients.
+    
+   • Displays sent responses to clients.
+    
+   • "Start Server" button to start listening for client connections.
+    
+   •  "Stop Server" button to stop the server.
+    
+   • "Display Votes" button to show the count of positive and negative votes.
+  
+Requirements:
   
   • Python 3.x
+  
   • Tkinter (usually included with Python installations)
+  
   • Socket programming (standard library)
 
 
